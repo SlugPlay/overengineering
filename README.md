@@ -5,6 +5,9 @@ This is a stupid project about learning all possible devops tools and useful tec
 
 Now i am working on architecture of this "zoo". Actual information in `architectere.excalidraw.png`
 
+Главная установка всего проекта:
+> ***Любой инструмент интегрируется так, как будто он один единственный в проекте (в изоляции от других)***
+
 # to do list
 - [ ] Kubernetes
 - [ ] ArgoCD
