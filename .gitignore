@@ -1,6 +1,2 @@
-*.pyc
-project.lock.json
-bin/
-obj/
-.vs/
-node_modules/
+.obsidian/
+.vscode/
