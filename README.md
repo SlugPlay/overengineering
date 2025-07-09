@@ -6,27 +6,27 @@ This is a stupid project about learning all possible devops tools and useful tec
 Now i am working on architecture of this "zoo". Actual information in `architectere.excalidraw.png`
 
 # to do list
-- [ ] Kubernetes
-- [ ] ArgoCD
-- [ ] Zabbix
-- [ ] MongoDB
+- [ ] Kubernetes - вся основа инфраструктуры, в котором крутятся все сервисы и приложение
+- [ ] ArgoCD - управление k8s, отслеживание, визуализация
+- [ ] Zabbix 
+- [ ] MongoDB - хранение всех отчётов, результатов сборки, доков
 - [ ] Helm
-- [ ] Terraform
-- [ ] Analogue of Confluence
-- [ ] SonarQube
+- [ ] Terraform - разворачивание всей необходимой "физической инфраструктуры в Yandex Cloud"
+- [ ] Analogue of Confluence - хранение всей документации проекта
+- [ ] SonarQube 
 - [ ] Ansible
-- [ ] Jenkins
-- [ ] Prometheus
-- [ ] Grafana
+- [ ] Jenkins - CI/CD
+- [ ] Prometheus - сбор метрик всего кластера
+- [ ] Grafana - визуализация мерок
 - [ ] Loki
-- [ ] HashiCorp Vault
-- [ ] GitLab
+- [ ] HashiCorp Vault - хранение чувствительной информации
+- [ ] GitLab - хранение кода, образов и т.д.
 - [ ] Test tools...
 - [ ] Container Registry
 - [ ] Yarn
-- [ ] HashiCorp Consul
+- [ ] HashiCorp Consul - местоположение и проверка всех сервисов
 - [ ] HashiCorp Packer
-- [ ] Kafka
+- [ ] Kafka - брокер сообщений
 - [ ] Luigibase
-- [ ] ELK Stack
-- [ ] Yandex Cloud
+- [ ] ELK Stack - сбор, визуализация и доступ к логам
+- [ ] Yandex Cloud - облако
